@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @wajeehulhassanr
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+wajeehulhassanr/wajeehulhassanr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->👋 Hi, Im @wajeehulhassanr@gmail.com 
+ 👀 I’m interested in flutter development
+🌱 I’m currently learning flutter
+reach me out on instagram @wajeehulhassanr
